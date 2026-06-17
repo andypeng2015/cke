@@ -6,6 +6,12 @@ This project employs a versioning scheme described in [RELEASE.md](RELEASE.md#ve
 
 ## [Unreleased]
 
+## [1.35.2]
+
+### Changed
+
+- Add feature to repair control-plane in [#896](https://github.com/cybozu-go/cke/pull/896)
+
 ## [1.35.1]
 
 ### Changed
@@ -51,7 +57,8 @@ This project employs a versioning scheme described in [RELEASE.md](RELEASE.md#ve
 - See [release-1.13/CHANGELOG.md](https://github.com/cybozu-go/cke/blob/release-1.13/CHANGELOG.md) for changes in CKE 1.13.
 - See [release-1.12/CHANGELOG.md](https://github.com/cybozu-go/cke/blob/release-1.12/CHANGELOG.md) for changes in CKE 1.12.
 
-[Unreleased]: https://github.com/cybozu-go/cke/compare/v1.35.1...HEAD
+[Unreleased]: https://github.com/cybozu-go/cke/compare/v1.35.2...HEAD
+[1.35.2]: https://github.com/cybozu-go/cke/compare/v1.35.1...v1.35.2
 [1.35.1]: https://github.com/cybozu-go/cke/compare/v1.35.0...v1.35.1
 [1.35.0]: https://github.com/cybozu-go/cke/compare/v1.35.0-rc.1...v1.35.0
 [1.35.0-rc.1]: https://github.com/cybozu-go/cke/compare/v1.34.2...v1.35.0-rc.1
